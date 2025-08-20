@@ -1,4 +1,4 @@
-# Vision — KindMind
+# Vision — Resilio
 
 **This chatbot is designed as a safe, empathetic, and non-clinical digital companion built to support students and young individuals in navigating the pressures of academics, extracurriculars, and personal growth. Its mission is to provide a peer-like space for dialogue, grounded in empathy and enriched with insights from biology, neuroscience, and psychology, while avoiding the pitfalls of over-clinical or impersonal AI.**
 
